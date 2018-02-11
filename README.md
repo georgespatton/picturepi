@@ -23,5 +23,8 @@ I have provided a simple shell script (run-example.sh) to run both programs.  Th
 
 @reboot /home/pi/picturepi/run-picturepi.sh > /home/pi/picturepi/picturepi-output.log 2>&1 
 
+![Image of PicturePi Zero](picturepi_zero.png)
+![Image of PicturePi Display](picturepi_display.png)
+
 Enjoy!
 
