@@ -30,4 +30,4 @@ For me, I am reloading my image database through gather_files.py nightly, and re
 
 Enjoy!
 
-
+Also see https://github.com/georgespatton/moviepi for another project which displays videos and movies on a Raspberry Pi.
